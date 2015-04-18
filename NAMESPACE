@@ -1,0 +1,12 @@
+import(lattice)
+import(ggplot2)
+
+importFrom(RColorBrewer,
+           brewer.pal)
+
+export('targetDiagram',
+       'target_diagram',
+       'tdStats',
+       'applyStats',
+       'tdTheme'
+       )

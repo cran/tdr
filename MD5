@@ -1,0 +1,10 @@
+b2f2446711922ee2817d860ab6c589ac *DESCRIPTION
+78f3d9b02f8af0d2b9909e8c608898f2 *NAMESPACE
+9e3ded14ac7750f9f12ceaa9c18e1f0c *R/prepareData.R
+c22ec54c61c9dec00796f4d21cdfe76a *R/targetDiagram.R
+fef739245589896d9af9639a0063e7e5 *R/target_diagram.R
+9f7a3466d4731ab510daa0d40f8189a9 *R/tdStats.R
+2978ce1dae67966d7852953427b278c3 *R/theme.R
+c5af7a5b34d381b0fc359867fd124220 *data/modelEx.RData
+b01efe3457989342c88c05421ea3b6b0 *man/stats.Rd
+ffdc30deaf9ab8044faebaefcc9f88a5 *man/targetDiagram.Rd
