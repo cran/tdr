@@ -1,10 +1,10 @@
-b2f2446711922ee2817d860ab6c589ac *DESCRIPTION
-78f3d9b02f8af0d2b9909e8c608898f2 *NAMESPACE
+3605c01101f9c6fe6ff7c1878c1a4738 *DESCRIPTION
+a1c8bd2843f0d86d92025f7339165797 *NAMESPACE
 9e3ded14ac7750f9f12ceaa9c18e1f0c *R/prepareData.R
 c22ec54c61c9dec00796f4d21cdfe76a *R/targetDiagram.R
-fef739245589896d9af9639a0063e7e5 *R/target_diagram.R
-9f7a3466d4731ab510daa0d40f8189a9 *R/tdStats.R
-2978ce1dae67966d7852953427b278c3 *R/theme.R
+a67fd7218a1a066d2dde103eb00655fd *R/target_diagram.R
+b38a2e1f0c93b78d51fa01f2b5ddaab5 *R/tdStats.R
+54eb2b01db2b967214a02d35c4faa8f9 *R/theme.R
 c5af7a5b34d381b0fc359867fd124220 *data/modelEx.RData
 b01efe3457989342c88c05421ea3b6b0 *man/stats.Rd
-ffdc30deaf9ab8044faebaefcc9f88a5 *man/targetDiagram.Rd
+7f640ffe482e2b01ff68e434dd571530 *man/targetDiagram.Rd
