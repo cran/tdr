@@ -46,17 +46,17 @@ tdTheme(pch = 21:25,
   
   \item{xlab, ylab}{Character or expression, define the axis labels.}
 
-  \item{auto.key, default.scales, scales}{Legend and scales customization. Read the \code{\link{xyplot}} and \code{\link{panel.xyplot}} help pages for details.}
+  \item{auto.key, default.scales, scales}{Legend and scales customization. Read the \code{\link[lattice]{xyplot}} and \code{\link[lattice]{panel.xyplot}} help pages for details.}
   
   \item{type}{Character, defines the type of cuts between 'quantile' and 'at'.}
 
   \item{cuts}{Numeric, defines the radius of the RMSE circles. If \code{type = 'quantile'} it defines the probabilities with values between 0 and 1, and the radius are such that the circles are the corresponding quantile. If \code{type = 'at'} \code{cuts} defines the radius of the circles.}
 
-  \item{par.settings}{Definition of graphical parameters using \code{\link{simpleTheme}} or its wrapper \code{tdTheme}}
+  \item{par.settings}{Definition of graphical parameters using \code{\link[lattice]{simpleTheme}} or its wrapper \code{tdTheme}}
   
-  \item{pch, col.points, fill, cex}{Arguments for \code{\link{simpleTheme}}}
+  \item{pch, col.points, fill, cex}{Arguments for \code{\link[lattice]{simpleTheme}}}
   
-  \item{\dots}{Additional arguments for \code{\link{xyplot}} or \code{\link{ggplot}}}
+  \item{\dots}{Additional arguments for \code{\link[lattice]{xyplot}} or \code{\link[ggplot2]{ggplot}}}
 
 }
 
@@ -85,9 +85,9 @@ Oscar Perpiñán Lamigueiro
 }
 
 \seealso{
-  \code{\link{xyplot}},
-  \code{\link{ggplot}},
-  \code{\link{simpleTheme}},
+  \code{\link[lattice]{xyplot}},
+  \code{\link[ggplot2]{ggplot}},
+  \code{\link[lattice]{simpleTheme}},
   \code{\link{tdStats}}
 }
 
